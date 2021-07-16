@@ -24,3 +24,8 @@ hs_err_pid*
 
 template
 build
+
+function/.classpath
+function/.gradle/
+function/.project
+function/.settings/
